@@ -1,5 +1,5 @@
 # #EcoTechRevolution
-#EcoTechRevolution is collaborative media based project between Koneta Hub and Creative Community 4 Development (CC4D) focusing on E-waste Management and Media Skills for young people in South Sudan and Uganda.
+#EcoTechRevolution is a collaborative media based project between Koneta Hub and Creative Community 4 Development (CC4D) focusing on E-waste Management and Media Skills for young people in South Sudan and Uganda.
 
 This collaborative project is made possible by the Access to Skills & Knowledge Network (#ASKnet) with generous funding and support from the r0g_agency (Berlin) and the Federal Ministry of Economic Cooperation and Development (BMZ) (Germany)
 
