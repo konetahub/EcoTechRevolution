@@ -13,3 +13,5 @@ This collaborative project is made possible by the Access to Skills & Knowledge 
 | r0g Agency | #ASKnet  | BMZ |
 :--------: | :----: | :-------: |
 [![Koneta Hub Logo](assets/images/logos/r0g_logo.png)](https://openculture.agency/) |[![#ASKnet Logo](assets/images/logos/asknet-logo.png)](https://github.com/ASKnet-Open-Training)|  [![BMZ Logo](assets/images/logos/founder_BMZ.jpg)](https://www.bmz.de/en/)| [Official Website](https://openculture.agency/) | [Official Website](https://github.com/ASKnet-Open-Training) | [Official Website](https://www.bmz.de/en/) |
+
+This repository is an Open Education Resource that serves to help people anywhere to teach Media Skills with a focus on E-Waste Management and stage their own #EcoTechRevolution
